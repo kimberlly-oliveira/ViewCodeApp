@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ViewCodeApp
+
+  Created by Kimberlly Castro on 26/01/23.
+  
+*/
+
+"WELCOME" = "Bienvenido!";
+"MAIN" = "¿Vamos a ejercitarmos? ¡Aquí pudes crear el entrenamiento perfect!";
+"LOGIN" = "Iniciar sesión";
+"SIGNUP" = "Regístrate";
+"PHONE" = "Teléfono";
+"SOCIAL_MEDIA_TEXT" = "O usando las redes sociales";
